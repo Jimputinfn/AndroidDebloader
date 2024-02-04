@@ -2,6 +2,9 @@ echo off
 title Android Debloader | https://github.com/Jimputinfn/AndroidDebloader
 color a
 cls
+echo Scipt is not done
+pause
+exit
 
 echo you have to have ADB installed.
 pause
